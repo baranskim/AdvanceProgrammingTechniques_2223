@@ -18,6 +18,7 @@ Adrian Kunikowski
   02.12.2022
   09.12.2022
   16.12.2022
+  02.01.2023
 }
 Kacper Węgrzynowski
 {
@@ -29,6 +30,7 @@ Kacper Węgrzynowski
   18.11.2022
   02.12.2022
   09.12.2022
+  02.01.2023
 }
 Konrad Stępniak
 {
@@ -53,6 +55,7 @@ Eliza Wielocha
   02.12.2022
   09.12.2022
   16.12.2022
+  02.01.2023
 }
 Mateusz Sapala
 {
@@ -77,6 +80,7 @@ Barbara Kosior
   25.11.2022
   02.12.2022
   09.12.2022
+  02.01.2023
 }
 Michał Barański
 {
@@ -114,6 +118,7 @@ Marcin Kowalski
   02.12.2022
   09.12.2022
   16.12.2022
+  02.01.2023
 }
 Artur Grabowski
 {
@@ -152,4 +157,5 @@ Monika Mostek
   25.11.2022
   02.12.2022
   16.12.2022
+  02.01.2023
 }
